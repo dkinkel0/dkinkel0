@@ -23,12 +23,11 @@
 </p>
 
 <p align="left">
-  💌 Puedes contactarme aquí: ⤵️
+  Medios de contacto:
 </p>
 
 <p align="left">
-  <a href="mailto:darioekinkela@gmail.com" target="_BLANK" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" alt="darioekinkela@gmail.com | Mail" /></a>
+  <p>darioekinkela@gmail.com</p>
 
   <a href="https://www.linkedin.com/in/dario-kinkela"  target="_BLANK" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="https://www.linkedin.com/in/dar%C3%ADo-kinkela-2087799" /></a>
