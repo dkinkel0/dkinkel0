@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  ⚙️ Tech skills:: <strong>NodeJs, Express, Sequelize, PostgreSQL, React, Redux, Javascript, HTML, CSS, Git, Github, NPM, Firebase, metodología Scrum.</strong>
+  ⚙️ Tech skills: <strong>NodeJs, Express, Sequelize, PostgreSQL, React, Redux, Javascript, HTML, CSS, Git, Github, NPM, Firebase, metodología Scrum.</strong>
 </p>
 
 
